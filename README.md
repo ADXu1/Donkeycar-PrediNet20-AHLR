@@ -1,5 +1,5 @@
 # Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss
-<img src="images/Fig14.png" alt="End-to-end Donkeycar" width="600"/>
+<img src="images/Fig14.png" alt="End-to-end Donkeycar" width="300"/>
 
 ## Abstract
 
@@ -12,7 +12,7 @@ PrediNet20 is a specialized CNN developed to address the challenges of predictin
 - **Convolutional Layers**: Designed to capture spatial hierarchies and patterns in the input images.
 - **Fully Connected Layers**: Tailored to combine the features and make final predictions.
 - **Activation Functions**: Utilizes activation functions such as ReLU for introducing non-linearities.
-<img src="images/predi net.drawio.png" alt="PrediNet20 Architecture" width="600"/>
+<img src="images/predi net.drawio.png" alt="PrediNet20 Architecture" width="500"/>
 
 
 ## Adaptive Huber Loss with Regularization (AHLR)
@@ -24,10 +24,12 @@ The AHLR is a novel loss function, a key contribution of this research. It is de
 - **L1 Regularization**: Included to encourage sparsity in the model weights, aiding in reducing overfitting.
 
 The combination of these elements leads to improved training convergence and model generalization.
+
 <img src="images/AHLR3D2.0.png" alt="AHLR" width="300"/>
 
 ## Experimental Setup
-<img src="images/Fig7.png" alt="Result" width="300"/> <img src="images/Fig8.png" alt="Result" width="600"/>
+
+<img src="images/Fig7.png" alt="Result" width="150"/> <img src="images/Fig8.png" alt="Result" width="300"/>
 
 To test the superiority of our proposed PrediNet20 model and Adaptive Huber Loss with Regularization (AHLR) loss function, we built an experimental platform based on the small open-source autonomous driving platform Donkeycar, thus simulating the kinematics of a real car to the greatest extent possible. We also built an 18-square-meter driveway field for this purpose, so as to facilitate the driving of 1/16th of the simulated car.
 
@@ -40,8 +42,10 @@ To test the superiority of our proposed PrediNet20 model and Adaptive Huber Loss
   
 ## Result
 Through extensive experiments on real driving data, we fully validate the superior performance and faster convergence of PrediNet20 relative to existing models. The experimental results show that PrediNet20 has higher accuracy and reliability in predicting throttle and steering angles, providing an efficient and reliable solution for end-to-end autonomous driving tasks.
- <img src="images/Fig11.png" alt="Result" width="600"/>
- <img src="images/f370b623-0b77-4878-be2a-89c5926a5939.png" alt="Result" width="600"/>
+
+ <img src="images/Fig11.png" alt="Result" width="300"/>
+ <img src="images/f370b623-0b77-4878-be2a-89c5926a5939.png" alt="Result" width="300"/>
+ 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.

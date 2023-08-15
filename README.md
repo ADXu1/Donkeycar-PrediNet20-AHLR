@@ -1,6 +1,6 @@
 # Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)(https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
 
 <img src="images/Fig14.png" alt="End-to-end Donkeycar" width="300"/>
 
@@ -45,6 +45,7 @@ To test the superiority of our proposed PrediNet20 model and Adaptive Huber Loss
 - `src/`: Source code, including model architecture, loss function.
 - `models/`: trained models and weights. eg.PrediNet20AHLR64, the PrediNet20 is modle name, the AHLR is loss function, the 64 is batch size.
 - `results/`: Graphs, charts, and analyses of the experimental results.
+- `dataset`:https://doi.org/10.5281/zenodo.8248534
   
 ## Result
 Through extensive experiments on real driving data, we fully validate the superior performance and faster convergence of PrediNet20 relative to existing models. The experimental results show that PrediNet20 has higher accuracy and reliability in predicting throttle and steering angles, providing an efficient and reliable solution for end-to-end autonomous driving tasks.

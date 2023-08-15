@@ -1,5 +1,7 @@
 # Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
+
 <img src="images/Fig14.png" alt="End-to-end Donkeycar" width="300"/>
 
 ### Author:Chuanji Xu  & Email: chuanji_xu@163.com

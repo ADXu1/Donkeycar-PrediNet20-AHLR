@@ -1,4 +1,4 @@
-# Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss
+# Enhanced Autonomous Driving: PrediNet20 with AHLR
 
 
 

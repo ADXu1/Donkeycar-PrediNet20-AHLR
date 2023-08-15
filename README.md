@@ -37,7 +37,7 @@ To test the superiority of our proposed PrediNet20 model and Adaptive Huber Loss
 
 - `src/`: Source code, including model architecture, loss function.
 - `data/`: Real driving data used for training and validation.
-- `models/`: Pre-trained models and weights.
+- `models/`: trained models and weights. eg.PrediNet20AHLR64, the PrediNet20 is modle name, the AHLR is loss function, the 64 is batch size.
 - `results/`: Graphs, charts, and analyses of the experimental results.
   
 ## Result

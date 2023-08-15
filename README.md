@@ -7,6 +7,10 @@
 
 This repository hosts the implementation of the research study "Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss with Regularization for Improved Performance." The research introduces PrediNet20, a state-of-the-art Convolutional Neural Network (CNN), tailored for autonomous driving using the Donkeycar platform.
 
+##Dataste
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
+
 ## PrediNet20 Model Definition
 
 PrediNet20 is a specialized CNN developed to address the challenges of predicting throttle and steering angles in autonomous driving. The architecture consists of:
@@ -38,7 +42,6 @@ To test the superiority of our proposed PrediNet20 model and Adaptive Huber Loss
 ## Contents
 
 - `src/`: Source code, including model architecture, loss function.
-- `data/`: Real driving data used for training and validation.
 - `models/`: trained models and weights. eg.PrediNet20AHLR64, the PrediNet20 is modle name, the AHLR is loss function, the 64 is batch size.
 - `results/`: Graphs, charts, and analyses of the experimental results.
   

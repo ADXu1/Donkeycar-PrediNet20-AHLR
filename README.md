@@ -1,6 +1,10 @@
 # Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss
 <img src="images/Fig14.png" alt="End-to-end Donkeycar" width="300"/>
 
+## Author Chuanji Xu  
+
+##Email: chuanji_xu@163.com
+
 ## Abstract
 
 This repository hosts the implementation of the research study "Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss with Regularization for Improved Performance." The research introduces PrediNet20, a state-of-the-art Convolutional Neural Network (CNN), tailored for autonomous driving using the Donkeycar platform.

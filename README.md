@@ -3,16 +3,13 @@
 
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534) [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://travis-ci.org/username/projectname) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Release](https://img.shields.io/github/v/release/autorope/donkeycar) [![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue)](https://python.org) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/username/repo)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
+ [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://github.com/autorope/donkeycar)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+ ![Release](https://img.shields.io/github/v/release/autorope/donkeycar) 
+ [![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue)](https://python.org)
+ [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://matrix.to/#/#self-driving:gitter.im)
 
-
-
-
-
- 
-
-
-<img src="images/Fig14.png" alt="End-to-end Donkeycar" width="300"/>
 
 ### Author:Chuanji Xu  & Email: chuanji_xu@163.com
 
@@ -20,7 +17,7 @@
 
 This repository hosts the implementation of the research study "Enhanced Autonomous Driving: PrediNet20 with Adaptive Huber Loss with Regularization for Improved Performance." The research introduces PrediNet20, a state-of-the-art Convolutional Neural Network (CNN), tailored for autonomous driving using the Donkeycar platform.
 
-
+<img src="images/Fig14.png" alt="End-to-end Donkeycar" width="300"/>
 
 ## PrediNet20 Model Definition
 

@@ -61,8 +61,9 @@ To test the superiority of our proposed PrediNet20 model and Adaptive Huber Loss
 ## Result
 Through extensive experiments on real driving data, we fully validate the superior performance and faster convergence of PrediNet20 relative to existing models. The experimental results show that PrediNet20 has higher accuracy and reliability in predicting throttle and steering angles, providing an efficient and reliable solution for end-to-end autonomous driving tasks.
 
- <img src="images/Fig11.png" alt="Result" width="300"/>
- <img src="images/f370b623-0b77-4878-be2a-89c5926a5939.png" alt="Result" width="300"/>
+![Fig15](https://github.com/ADXu1/Donkeycar-PrediNet20-AHLR/assets/109978889/f1ac119e-79ad-468a-9855-292f7ffe3d54)
+
+ <img src="images/Fig11.png" alt="Result" width="300"/> <img src="images/f370b623-0b77-4878-be2a-89c5926a5939.png" alt="Result" width="300"/>
  
 ## License
 

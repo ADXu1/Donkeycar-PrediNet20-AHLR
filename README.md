@@ -1,6 +1,7 @@
 # Enhanced Autonomous Driving: PrediNet20 with AHLR
 
-
+### Author:Chuanji Xu 
+### Email: chuanji_xu@163.com
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
  
@@ -15,9 +16,6 @@
 [![Comparison of Model Inference Effectiveness of Donkeycar PrediNet20 and Linear Models](images/a1.png)](https://youtu.be/Q2NMmvl7f_g)
 
 
-
-
-### Author:Chuanji Xu  & Email: chuanji_xu@163.com
 
 ## Abstract
 

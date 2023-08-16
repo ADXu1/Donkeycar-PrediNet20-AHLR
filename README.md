@@ -6,6 +6,7 @@
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
+ 
  [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://github.com/autorope/donkeycar)
  ![Release](https://img.shields.io/github/v/release/autorope/donkeycar) 
  [![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue)](https://python.org)

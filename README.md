@@ -3,12 +3,14 @@
 
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+ 
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8248534.svg)](https://doi.org/10.5281/zenodo.8248534)
  [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://github.com/autorope/donkeycar)
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
  ![Release](https://img.shields.io/github/v/release/autorope/donkeycar) 
  [![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue)](https://python.org)
  [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://matrix.to/#/#self-driving:gitter.im)
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 [![Comparison of Model Inference Effectiveness of Donkeycar PrediNet20 and Linear Models](images/a1.png)](https://youtu.be/Q2NMmvl7f_g)
 

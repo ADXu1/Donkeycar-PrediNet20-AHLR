@@ -1,6 +1,6 @@
 # Enhanced Autonomous Driving: PrediNet20 with AHLR
 
-### Author:Chuanji Xu 
+### Author:Chuanji Xu and [Jian Qu](https://scholar.google.com.hk/citations?user=LWfPeywAAAAJ&hl=zh-CN&oi=sra)
 ### Email: chuanji_xu@163.com
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)

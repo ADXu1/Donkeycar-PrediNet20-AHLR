@@ -13,7 +13,7 @@
  [![Python](https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8-blue)](https://python.org)
  [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://matrix.to/#/#self-driving:gitter.im)
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 
 [![Comparison of Model Inference Effectiveness of Donkeycar PrediNet20 and Linear Models](images/a1.png)](https://youtu.be/Q2NMmvl7f_g)
 

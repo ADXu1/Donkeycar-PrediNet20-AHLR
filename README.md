@@ -13,7 +13,7 @@
  [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://matrix.to/#/#self-driving:gitter.im)
 
 
-## Click on the image to play the video on YouTube.⬇️⬇️⬇️⬇️⬇️⬇️
+## 👇👇👇Click on the image to play the video on YouTube.⬇️⬇️⬇️⬇️⬇️⬇️
 [![Comparison of Model Inference Effectiveness of Donkeycar PrediNet20 and Linear Models](images/a1.png)](https://youtu.be/Q2NMmvl7f_g)
 
 

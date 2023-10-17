@@ -2,7 +2,6 @@
 
 ### Author:  
  Chuanji Xu[![Chuanji Xu](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0009-5633-9605) & Asst. Prof. Jian Qu[![Asst. Prof. Jian Qu](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1658-5088)
-### Email: chuanji_xu@163.com
 
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
  
